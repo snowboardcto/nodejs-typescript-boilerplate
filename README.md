@@ -12,3 +12,20 @@
 9.  $> npx ts-jest config:init
 10. $> npm install --save-dev supertest @types/supertest
 ```
+## Commands
+Compile typescript into javascript.
+```
+$> npm run build
+```
+Start the app.ts file with node.
+```
+$> npm start
+```
+Start the app.ts file with nodemon.
+```
+$> npm run dev
+```
+Run the jest tests.
+```
+$> npm test
+```
